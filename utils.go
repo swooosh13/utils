@@ -17,4 +17,3 @@ func ContainsInt(a []int, x int) bool {
 	}
 	return false
 }
-
