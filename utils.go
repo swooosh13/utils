@@ -1,6 +1,6 @@
 package xutils
 
-func Contains(s []string, x string) bool {
+func InSlice(s []string, x string) bool {
 	for _, n := range s {
 		if n == x {
 			return true
