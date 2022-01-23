@@ -1,4 +1,4 @@
-package utils
+package xutils
 
 func Contains(s []string, x string) bool {
 	for _, n := range s {
